@@ -1,5 +1,4 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Привет, мир!");
-    }
+    // 1) Изменил текст вывода — добавил эмоцию
+        System.out.println("Привет, мир! Я учусь Java!");
 }
